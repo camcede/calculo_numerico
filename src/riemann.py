@@ -1,3 +1,5 @@
+# Br. Camila Cedeño
+# C.I. 30.870.444
 import math
 
 def f(x):
